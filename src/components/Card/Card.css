@@ -1,0 +1,9 @@
+.card{
+    /* width: 95vw;*/
+    height: 95vh; 
+    background-color: white;
+    margin: 1rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
